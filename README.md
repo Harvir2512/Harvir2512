@@ -23,6 +23,12 @@ Welcome to my GitHub profile! 🚀
 - **C Programming & DSA** — Algorithms and data structures
 - **DBMS & RDBMS** — Database management and relational database systems
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harvir2512&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harvir2512&layout=compact&theme=tokyonight)
+
 ### 🤝 Connect With Me
 
-- GitHub:https://github.com/Harvir2512
+- GitHub: [Harvir2512](https://github.com/Harvir2512)
