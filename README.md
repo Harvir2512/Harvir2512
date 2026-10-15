@@ -21,6 +21,7 @@ Welcome to my GitHub profile! 🚀
 
 - **PHP Projects** — Web development practice
 - **C Programming & DSA** — Algorithms and data structures
+- **DBMS & RDBMS** — Database management and relational database systems
 
 ### 🤝 Connect With Me
 
