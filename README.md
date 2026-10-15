@@ -29,6 +29,12 @@ Welcome to my GitHub profile! 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harvir2512&layout=compact&theme=tokyonight)
 
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harvir2512&theme=tokyonight)
+
+
 ### 🤝 Connect With Me
 
 - GitHub: [Harvir2512](https://github.com/Harvir2512)
